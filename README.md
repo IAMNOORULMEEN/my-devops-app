@@ -1,2 +1,2 @@
 # my-devops-app
-Version 1.0 Hello from Noor
+Version 1.1 bug-fixed
